@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "semantic-memory": {
+      "command": "python",
+      "args": ["/home/computer/semantic-memory-search/mcp_server.py"],
+      "env": {
+        "PYTHONPATH": "/home/computer/semantic-memory-search"
+      }
+    }
+  }
+}

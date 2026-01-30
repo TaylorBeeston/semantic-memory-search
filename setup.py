@@ -17,6 +17,7 @@ setup(
     entry_points={
         "console_scripts": [
             "semantic-memory=semantic_memory.cli:main",
+            "semantic-memory-mcp=mcp_server:main",
         ],
     },
     python_requires=">=3.9",

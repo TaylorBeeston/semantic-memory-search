@@ -6,3 +6,6 @@ numpy
 sqlite3-vec
 click
 watchdog
+
+# MCP server support (optional)
+# pip install mcp>=1.0.0
