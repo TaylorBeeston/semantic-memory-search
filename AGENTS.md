@@ -124,7 +124,7 @@ export MODEL_PATH=/custom/path/to/model
 
 To download:
 ```bash
-huggingface-cli download onnx-community/embedding-gemma-270m --local-dir /home/computer/models/embeddinggemma-300m
+huggingface-cli download google/embeddinggemma-300m --local-dir /home/computer/models/embeddinggemma-300m
 ```
 
 ## Database
